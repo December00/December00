@@ -12,9 +12,13 @@
 <!-- 💻 Tech Stack -->
 <h2 align="center">💻 Tech Stack</h2>
 <div align="center">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" title="C#"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3"/>&nbsp;
+   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="40" height="40" alt="Python" title="Python"/>&nbsp;
+   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" width="40" height="40" alt="Django" title="Django"/>&nbsp;
+   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white" width="40" height="40" alt="C#" title="C#"/>&nbsp;
+   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" width="40" height="40" alt="HTML5" title="HTML5"/>&nbsp;
+   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" width="40" height="40" alt="CSS3" title="CSS3"/>&nbsp;
+   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF" width="40" height="40" alt="Mysql" title="Mysql"/>&nbsp;
+   
 </div>
 
 <!-- 📊 GitHub Stats -->
