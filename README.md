@@ -9,6 +9,7 @@
 </p>
 
 <!-- 💻 Tech Stack -->
+<h2 align="center">💻 Tech Stack</h2>
 <div align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" title="C#"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5"/>&nbsp;
@@ -16,9 +17,10 @@
 </div>
 
 <!-- 📊 GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=December00&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=December00&theme=dark&hide_border=false" alt="Streak Stats"/>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=December00&theme=dark" alt="Repos per Language"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=December00&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=December00&theme=dark&hide_border=false" alt="Streak Stats"/><br/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=December00&theme=dark" alt="Repos per Language"/><br/>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=December00&theme=dark" alt="Most Commit Language"/>
 </p>
