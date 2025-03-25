@@ -2,7 +2,7 @@
 <h2 align="center">🌐 Socials</h2>
 <p align="center">
    <a href="https://www.instagram.com/bozhidar00_/?hl=ru" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
    </a>
    <a href="https://t.me/whydecember" target="_blank">
      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
