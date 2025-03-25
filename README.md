@@ -14,7 +14,7 @@
 <div align="center">
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40" alt="Python" title="Python"/>&nbsp;
    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="40" alt="Django" title="Django"/>&nbsp;
-   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white" height="40" alt="C#" title="C#"/>&nbsp;
+   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="C#" title="C#"/>&nbsp;
    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="HTML5" title="HTML5"/>&nbsp;
    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="CSS3" title="CSS3"/>&nbsp;
    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF" height="40" alt="Mysql" title="Mysql"/>&nbsp;
