@@ -26,7 +26,7 @@
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=December00&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/><br/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=December00&theme=dark&hide_border=false" alt="Streak Stats"/><br/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alrx31&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=8&theme=dark&hide_border=false" height="240" alt="languages graph"  /></br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=December00&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=8&theme=dark&hide_border=false" height="240" alt="languages graph"  /></br>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=December00&theme=dark" alt="Repos per Language"/><br/>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=December00&theme=dark" alt="Most Commit Language"/>
    
