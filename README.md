@@ -13,17 +13,21 @@
 <h2 align="center">💻 Tech Stack</h2>
 <div align="center">
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="Java" title="Java"/>&nbsp;
-   <img src="https://img.shields.io/badge/Spring%20Boot-3.1.5-ED8B00?style=for-the-badge&labelColor=6db33f&color=808080&logo=Spring%20Boot&logoColor=white[Spring" height="40" alt="Spring" title="Spring"/>&nbsp;
+   <img src="https://camo.githubusercontent.com/c1857081544b4bc84e4fae53ff2ab95a579f1436cb56edc98c4bd5d819c81f00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e675f426f6f742d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465" height="40" alt="Spring" title="Spring"/>&nbsp;
+   <img src="https://camo.githubusercontent.com/17670d010352ccec433887dead3aab4c830412753abb5ecf0658db9659c43ba3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48696265726e6174652d3539363636433f7374796c653d666f722d7468652d6261646765266c6f676f3d68696265726e617465266c6f676f436f6c6f723d7768697465" height="40" alt="Hibernate" title="Hibernate"/>&nbsp;
    <p>
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40" alt="Python" title="Python"/>&nbsp;
    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="40" alt="Django" title="Django"/>&nbsp;
    <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="C#" title="C#"/>&nbsp;
+   <img src="https://camo.githubusercontent.com/9e628e871e4286b76a446a7c4e8bde029f1558f318ef56e073df615b67463f97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" height="40" alt="C++" title="C++"/>&nbsp;
    <p>
+   <img src="https://camo.githubusercontent.com/011b3a48877df5b6b0b521d42f8bc1e20e40e81b1eb5647575213fe86dc069ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765" height="40" alt="JS" title="JS"/>&nbsp;
    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="HTML5" title="HTML5"/>&nbsp;
    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="CSS3" title="CSS3"/>&nbsp;
    <p>
    <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" height="40" alt="PostgreSql" title="PostgreSql"/>&nbsp;
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="Mysql" title="Mysql"/>&nbsp;
+   <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" height="40" alt="MongoDB" title="MongoDB"/>&nbsp;
    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="40" alt="Firebase" title="Firebase"/>&nbsp;
 
    
